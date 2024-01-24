@@ -1,0 +1,27 @@
+.kepala-1{
+    text-align: center;
+    font-size: large;
+    width: 100%;
+    height: 100%;
+}
+
+.checkmark {
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+}
+
+.section{
+    text-align: left;
+}
+
+.aside{
+    text-align: right;
+    margin-top: ;
+}
